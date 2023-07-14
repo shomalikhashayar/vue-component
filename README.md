@@ -1,4 +1,5 @@
 # vue-component
+In this project, you learn use props, slots and emit in vue 3 composition api.
 
 ## Project setup
 ```
