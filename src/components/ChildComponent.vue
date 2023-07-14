@@ -7,6 +7,7 @@
   <div class="message">
     <h2>{{ message }}</h2>
   </div>
+  <slot name="changeBackgroundToRed"/>
   </div>
 </template>
 
